@@ -2,7 +2,7 @@
 	"name": "Fav",
 	"colors": {
 		// window
-		"activityBar.background": "#ececec",
+		"activityBar.background": "#00ff00",
 		// 选中和未选中文件tab背景
 		"tab.inactiveBackground": "#d3d3d3",
 		"tab.activeBackground": "#ececec",
@@ -346,9 +346,9 @@
 				"meta.diff.header"
 			],
 			"settings": {
-				"background": "#0b2f20ff",
+				"background": "#0b2f20",
 				"fontStyle": "italic",
-				"foreground": "#f8f8f8ff"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -363,8 +363,8 @@
 			"name": "diff.changed",
 			"scope": "markup.changed",
 			"settings": {
-				"background": "#c4b14aff",
-				"foreground": "#f8f8f8ff"
+				"background": "#c4b14a",
+				"foreground": "#ff0000"
 			}
 		},
 		{
