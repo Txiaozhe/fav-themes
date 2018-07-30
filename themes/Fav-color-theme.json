@@ -2,7 +2,7 @@
 	"name": "Fav",
 	"colors": {
 		// window
-		"activityBar.background": "#00ff00",
+		"activityBar.background": "#f6f6f6",
 		// 选中和未选中文件tab背景
 		"tab.inactiveBackground": "#d3d3d3",
 		"tab.activeBackground": "#ececec",
