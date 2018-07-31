@@ -2,11 +2,15 @@
 	"name": "Fav",
 	"colors": {
 		// window
-		"activityBar.background": "#f6f6f6",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.background": "#999999",
 		// 选中和未选中文件tab背景
+		"tab.inactiveForeground": "#1d1d1d",
 		"tab.inactiveBackground": "#d3d3d3",
-		"tab.activeBackground": "#ececec",
+		"tab.activeForeground": "#1d1d1d",
+		"tab.activeBackground": "#ffffff",
 		// 侧边栏
+		"sideBar.foreground": "#1d1d1d",
 		"sideBar.background": "#ffffff",
 		// 底部状态栏
 		"statusBar.background": "#d3d3d3",
@@ -31,6 +35,7 @@
 		"editorWhitespace.foreground": "#e6e6e6",
 		// 选中的单词的背景色
 		"editor.selectionBackground": "#3977eb",
+		"editor.selectionForeground": "#ffffff",
 		// 行号颜色，选中和不选择
 		"editorLineNumber.foreground": "#999999",
 		"editorLineNumber.activeForeground": "#999999",
@@ -87,7 +92,7 @@
 			"settings": {
 				"background": "#ff0000",
 				"caret": "#970000",
-				"foreground": "#F8F8F8",
+				"foreground": "#f8f8f8",
 				"invisibles": "#c10000",
 				"lineHighlight": "#000000",
 				"selection": "#750000"
@@ -171,7 +176,7 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#fd6209ff",
+				"background": "#fd6209",
 				"foreground": "#ff0000"
 			}
 		},
